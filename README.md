@@ -11,21 +11,14 @@ Image Visualization
 ![](https://github.com/Kasha-13/Akash_portfolio/blob/main/images/facial_key%20points.PNG)
 ![](https://github.com/Kasha-13/Akash_portfolio/blob/main/images/emotion.PNG)
 
-# Project 2
-## Tumor detection
-AI in Healthcare                                                                               
-• Detection and localizing brain tumors based on MRI scans were performed
-• From the input images, image segmentation was performed to understand and extract the information from images at 
-  the pixel level and to train a neural network to produce a pixel-wise mask of the image.
-• Diseases diagnosis with medical imaging with improved speed and better accuracy
 
-# Project 3
+# Project 2
 # [MNIST Classifier](https://github.com/Kasha-13/MNIST)
 I was able to create SVM classifier with the accuracy of 98%.
 Did Error Analysis for the improvement of the model.
 ![](https://github.com/Kasha-13/Akash_portfolio/blob/main/images/mnist.PNG)
 
-# project 4
+# project 3
 # [Data Visualization using Tableau](https://public.tableau.com/profile/akash4773#!/vizhome/ProfitorLoss_16155416805000/Story1?publish=yes)
 Did Exploratory Data Analysis on the Superstore dataset
 
