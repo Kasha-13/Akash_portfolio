@@ -12,7 +12,7 @@ Image Visualization
 ![](/images/emotion.PNG)
 
 # Project 2
-#[Marketing AI](https://github.com/Kasha-13/Marketing-AI)
+# [Marketing AI](https://github.com/Kasha-13/Marketing-AI)
 Did Market Segementation using K means and PCA
 
 # Project 3
