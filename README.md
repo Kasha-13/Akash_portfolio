@@ -23,6 +23,7 @@ AI in Healthcare
 # [MNIST Classifier](https://github.com/Kasha-13/MNIST)
 I was able to create SVM classifier with the accuracy of 98%.
 Did Error Analysis for the improvement of the model.
+![](https://github.com/Kasha-13/Akash_portfolio/blob/main/images/mnist.PNG)
 
 # project 4
 # [Data Visualization using Tableau](https://public.tableau.com/profile/akash4773#!/vizhome/ProfitorLoss_16155416805000/Story1?publish=yes)
