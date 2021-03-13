@@ -11,8 +11,11 @@ Image Visualization
 ![](/images/facial_key%20points.PNG)
 ![](/images/emotion.PNG)
 
-
 # Project 2
+#[Marketing AI](https://github.com/Kasha-13/Marketing-AI)
+Did Market Segementation using K means and PCA
+
+# Project 3
 # [MNIST Classifier](https://github.com/Kasha-13/MNIST)
 I was able to create SVM classifier with the accuracy of 98%.
 Did Error Analysis for the improvement of the model.
