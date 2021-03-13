@@ -8,6 +8,7 @@ Image Visualization
 • Performed Image augmentation and data normalization
 • Built Deep Residual Neural Network key facial expression detection model.
 • Combined both expression and key points detection models to predict the facial expressions.
+![](https://github.com/Kasha-13/Akash_portfolio/blob/main/images/facial_key%20points.PNG)
 
 # Project 2
 ## Tumor detection
