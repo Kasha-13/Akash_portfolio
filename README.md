@@ -25,3 +25,5 @@ Did Error Analysis for the improvement of the model.
 # [Data Visualization using Tableau](https://public.tableau.com/profile/akash4773#!/vizhome/ProfitorLoss_16155416805000/Story1?publish=yes)
 Did Exploratory Data Analysis on the Superstore dataset
 
+# project 4
+# [Covid-19 Dashboard](https://public.tableau.com/profile/akash4773#!/vizhome/Covid19latest/Dashboard1?publish=yes)
