@@ -13,7 +13,12 @@ Image Visualization
 
 # Project 2
 # [Marketing AI](https://github.com/Kasha-13/Marketing-AI)
-Did Market Segementation using K means and PCA
+•	The goal was to know the customers and indentify  their needs, which helps the marketer to launch a targeted
+Marketing
+•	Performed PCA for dimension reduction
+•	Used  elbow method to determine the optimal number of distinct clusters and clustered the observations 
+using K means Aklgorithm.
+
 
 # Project 3
 # [MNIST Classifier](https://github.com/Kasha-13/MNIST)
