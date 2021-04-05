@@ -35,4 +35,4 @@ Did Exploratory Data Analysis on the Superstore dataset
 
 # project 5
 # [Churn](https://github.com/Kasha-13/Churn)
-![](master/git.PNG)
+![](/images/git.PNG)
