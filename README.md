@@ -2,7 +2,7 @@
 My Data Science Portfolio
 
 # Project 1
-# [Emotion AI](https://github.com/Kasha-13/Emotion_AI)                                                                             
+# [Emotion AI](https://github.com/Kasha-13/AI-Emotion)                                                                             
 Image Visualization 
 • Built key facial point detection model.
 • Performed Image augmentation and data normalization
