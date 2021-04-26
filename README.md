@@ -33,3 +33,6 @@ Exploratory Data Analysis on the Superstore dataset
 # project 5
 # [Churn](https://github.com/Kasha-13/Churn)
 ![](/images/git.PNG)
+
+# project 6
+# [Default-Payment-Prediction](https://github.com/Kasha-13/Default-Payment-Prediction) 
