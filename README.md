@@ -12,7 +12,7 @@ Image Visualization
 ![](/images/emotion.PNG)
 
 # Project 2
-# [Marketing AI](https://github.com/Kasha-13/Marketing-AI)
+# [Marketing Analysis](https://github.com/Kasha-13/Marketing-AI)
 •	The goal was to know the customers and indentify  their needs, which helps the marketer to launch a targeted
 Marketing
 •	Performed PCA for dimension reduction
