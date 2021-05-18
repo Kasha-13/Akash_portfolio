@@ -23,7 +23,7 @@ using K means Aklgorithm.
 # [Tumor Detection](https://github.com/Kasha-13/Tumor_detection)
 Developed a classifier model using ResNet(Transfer learning), which predicts a person having tumor or not using brain MRI images.
 Built a model to localize the tumor when the classifier model predicts positive using RESUNET. 
-![](/images/health_1.PNG
+![](/images/health_1.PNG)
 ![](/images/Health_2.PNG)
 
 # Project 4
