@@ -19,7 +19,7 @@ Marketing
 •	Used  elbow method to determine the optimal number of distinct clusters and clustered the observations 
 using K means Aklgorithm.
 
-# project 3
+# Project 3
 # [Tumor Detection](https://github.com/Kasha-13/Tumor_detection)
 Developed a classifier model using ResNet(Transfer learning), which predicts a person having tumor or not using brain MRI images.
 Built a model to localize the tumor when the classifier model predicts positive using RESUNET. 
@@ -32,15 +32,16 @@ I was able to create SVM classifier with the accuracy of 98%.
 Did Error Analysis for the improvement of the model.
 ![](/images/mnist.PNG)
 
-# project 5
+# Project 5
 # [Data Visualization using Tableau](https://public.tableau.com/profile/akash4773#!/vizhome/ProfitorLoss_16155416805000/Story1?publish=yes)
 Exploratory Data Analysis on the Superstore dataset
 
-# project 6
+# Project 6
 # [Churn](https://github.com/Kasha-13/Churn)
 ![](/images/git.PNG)
 
-# project 7
+# Project 7
 # [Default-Payment-Prediction](https://github.com/Kasha-13/Default-Payment-Prediction) 
 
+# Project 8
 # [Internship-Projects](https://github.com/Kasha-13/Internship_tools)
