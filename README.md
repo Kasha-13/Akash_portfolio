@@ -42,3 +42,5 @@ Exploratory Data Analysis on the Superstore dataset
 
 # project 7
 # [Default-Payment-Prediction](https://github.com/Kasha-13/Default-Payment-Prediction) 
+
+# [Internship-Projects](https://github.com/Kasha-13/Internship_tools)
