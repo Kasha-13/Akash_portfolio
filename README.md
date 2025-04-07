@@ -1,5 +1,4 @@
-# Akash Shambhunath Kanojiya
-My Data Science Portfolio
+
 
 
 ## Project 1: [Multimodal vs. Vision-Based Cancer Detection (ISIC 2024 – Kaggle)](https://www.kaggle.com/code/akashkanojiya/cancer-prediction-isic-2024)
