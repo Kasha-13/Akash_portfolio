@@ -8,8 +8,17 @@ My Data Science Portfolio
 - Built a Multimodal Retrieval-Augmented Generation (RAG) pipeline using Azure OpenAI Studio, integrating OpenAI Embeddings, structured patient data, and lesion images to explore hybrid approaches in medical diagnostics. [Notebook Link](https://github.com/Kasha-13/multimodal_rag_cancer_detection_01)
 - Conducted a comparative evaluation between the multimodal RAG system and a traditional tree-based classifier using ResNet-extracted features. Published findings in a public Kaggle notebook, concluding that while both models were competitive, the computer vision-based approach outperformed in this specific diagnostic task.
 
-  
+
 # Project 2
+## [Team Ranking](https://github.com/Kasha-13/Team_Ranking.git)
+– Researched flaws in existing team ranking systems and analyzed alternative approaches.
+– Applied a Bivariate Poisson model with an interaction parameter in R to predict Germany’s football team rankings
+using FIFA data.
+– Evaluated model accuracy using win-draw-loss error rates, re-ranked teams accordingly, and compared results
+with existing ranking systems to highlight key discrepancies.
+– Presented findings in a detailed report and seminar, demonstrating data-driven insights.
+
+# Project 3
 # [Emotion AI](https://github.com/Kasha-13/AI-Emotion)                                                                             
 Image Visualization 
 - Built key facial point detection model.
