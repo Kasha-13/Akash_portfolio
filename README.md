@@ -12,10 +12,10 @@ My Data Science Portfolio
 # Project 2
 ## [Team Ranking](https://github.com/Kasha-13/Team_Ranking.git)
 
-– Researched flaws in existing team ranking systems and analyzed alternative approaches.
-– Applied a Bivariate Poisson model with an interaction parameter in R to predict Germany’s football team rankings using FIFA data.
-– Evaluated model accuracy using win-draw-loss error rates, re-ranked teams accordingly, and compared results with existing ranking systems to highlight key discrepancies.
-– Presented findings in a detailed report and seminar, demonstrating data-driven insights.
+- Researched flaws in existing team ranking systems and analyzed alternative approaches.
+- Applied a Bivariate Poisson model with an interaction parameter in R to predict Germany’s football team rankings using FIFA data.
+- Evaluated model accuracy using win-draw-loss error rates, re-ranked teams accordingly, and compared results with existing ranking systems to highlight key discrepancies.
+- Presented findings in a detailed report and seminar, demonstrating data-driven insights.
 
 # Project 3
 # [Emotion AI](https://github.com/Kasha-13/AI-Emotion)                                                                             
