@@ -58,4 +58,3 @@ Image Visualization
 ## Project 9: [Default-Payment-Prediction](https://github.com/Kasha-13/Default-Payment-Prediction) 
 
 
-## Project 10: [Internship-Projects](https://github.com/Kasha-13/Internship_tools)
