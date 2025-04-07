@@ -2,12 +2,12 @@
 My Data Science Portfolio
 
 # Project 1
-# [Multimodal vs. Vision-Based Cancer Detection (ISIC 2024 – Kaggle)](https://www.kaggle.com/code/akashkanojiya/cancer-prediction-isic-2024)
-• Developed cancer detection models using deep learning (ResNet, transfer learning) and tree-based models to classify malignant vs. benign skin lesions.
-• Built a Multimodal Retrieval-Augmented Generation (RAG) pipeline using Azure OpenAI Studio, integrating OpenAI Embeddings structured patient data, and lesion images to 
-  explore hybrid approaches in medical diagnostics. Notebook Link (https://github.com/Kasha-13/multimodal_rag_cancer_detection_01)
-• Conducted a comparative evaluation between the multimodal RAG system and a traditional tree-based classifier using ResNet-extracted features. Published findings in a 
-  public Kaggle notebook, concluding that while both models were competitive, the computer vision-based approach outperformed in this specific diagnostic task.
+## [Multimodal vs. Vision-Based Cancer Detection (ISIC 2024 – Kaggle)](https://www.kaggle.com/code/akashkanojiya/cancer-prediction-isic-2024)
+
+- Developed cancer detection models using deep learning (ResNet, transfer learning) and tree-based models to classify malignant vs. benign skin lesions.
+- Built a Multimodal Retrieval-Augmented Generation (RAG) pipeline using Azure OpenAI Studio, integrating OpenAI Embeddings, structured patient data, and lesion images to explore hybrid approaches in medical diagnostics. [Notebook Link](https://github.com/Kasha-13/multimodal_rag_cancer_detection_01)
+- Conducted a comparative evaluation between the multimodal RAG system and a traditional tree-based classifier using ResNet-extracted features. Published findings in a public Kaggle notebook, concluding that while both models were competitive, the computer vision-based approach outperformed in this specific diagnostic task.
+
   
 # Project 2
 # [Emotion AI](https://github.com/Kasha-13/AI-Emotion)                                                                             
