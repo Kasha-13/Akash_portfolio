@@ -1,4 +1,4 @@
-# Akash_portfolio
+# Akash Shambhunath Kanojiya
 My Data Science Portfolio
 
 # Project 1
